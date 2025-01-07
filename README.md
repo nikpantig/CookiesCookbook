@@ -1,0 +1,1 @@
+A simple, fun, and interactive C# Console Application for managing a collection of delicious cookie recipes! This project demonstrates Object-Oriented Programming (OOP) principles in C#, including polymorphism, inheritance, and interfaces.
