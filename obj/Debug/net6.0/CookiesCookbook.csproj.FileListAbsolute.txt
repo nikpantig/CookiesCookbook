@@ -1,0 +1,14 @@
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\bin\Debug\net6.0\CookiesCookbook.exe
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\bin\Debug\net6.0\CookiesCookbook.deps.json
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\bin\Debug\net6.0\CookiesCookbook.runtimeconfig.json
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\bin\Debug\net6.0\CookiesCookbook.dll
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\bin\Debug\net6.0\CookiesCookbook.pdb
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.AssemblyInfoInputs.cache
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.AssemblyInfo.cs
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.csproj.CoreCompileInputs.cache
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.dll
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\refint\CookiesCookbook.dll
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.pdb
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\CookiesCookbook.genruntimeconfig.cache
+C:\Users\Nikko Pantig\Source\Repos\TodoList\CookiesCookbook\obj\Debug\net6.0\ref\CookiesCookbook.dll
